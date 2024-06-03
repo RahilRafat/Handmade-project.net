@@ -1,0 +1,43 @@
+﻿body {
+    background-image: url(../img/workshops/27.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table {
+    border-radius: 200px;
+}
+
+.d1 {
+    margin: 60px;
+}
+
+.i1 {
+    border-radius: 200px;
+}
+
+#all {
+    background-color: rgba(128, 128, 128, 0.522);
+    margin: 20px;
+    width: 65%;
+    left: 300px;
+    position: relative;
+
+}
+
+h2 {
+    position: inherit;
+    margin-top: 7px;
+    padding: 7px;
+    font-size: 20px;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    color:chocolate;
+}
+span{
+    font-size:27px;
+}

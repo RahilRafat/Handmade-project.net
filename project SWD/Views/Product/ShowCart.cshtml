@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<order_item>
+<h2>Product selected</h2>
+<html>
+<body style="background-image:url('../img/200.jpg');Background-attachment: fixed; background-position: center;background-repeat: no-repeat;
+ background-size: cover;">
+@if(Model.Count>0){
+    <form asp-action="Check" asp-controller="Product">
+    <table class="tabel">
+<thead>
+    <tr>
+                <th>product_ID</th>
+                <th>price</th>
+               
+    </tr>
+ </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr class="row-cols-6">
+                    <td>@item.product_ID1</td>
+                    <td>@item.product_price</td>
+                    
+                    <td><a class="btn btn-danger" asp-action="RemoveFromCart"
+                   asp-controller="Product" asp-route-id="@item.product_ID1">Remove from cart</a>
+                    </td>
+                </tr>
+                
+            }
+        </tbody>
+        <tfoot>
+                <td colspan="3">
+                    <a class="btn btn-danger" asp-action="Index"
+                   asp-controller="Home">Back</a>
+                </td>
+        </tfoot>
+    </table> 
+    
+    </form>
+
+}
+else
+{
+    <h2>Empty cart</h2>
+
+}
+</body>
+</html>

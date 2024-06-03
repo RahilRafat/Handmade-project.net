@@ -1,0 +1,180 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-image: url('../img/1.jpg');
+            Background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .srch1 {
+            border: 2px solid #ccc;
+            padding: 3px 5px 3px 13px;
+            width: 100px;
+            border: 1.5px solid;
+            border-radius: 5px;
+        }
+
+        input[type=search]:focus {
+            width: 30%;
+        }
+
+        .title {
+            font-family: Georgia, serif;
+            font-weight: bold;
+        }
+
+        td {
+            background-color: rgba(228, 179, 144, 0.7);
+            padding: 5px;
+            border-radius: 20px;
+            margin-left: 3%;
+            margin-bottom: 2%;
+            width: 5%;
+        }
+
+            td :hover {
+                opacity: 7;
+                transform: translateY(-5px);
+            }
+
+        .srch {
+            position: relative;
+            bottom: 70px;
+            left: 60%;
+        }
+
+        .chart {
+            position: relative;
+            left: 35%;
+            border-radius: 5px;
+        }
+    </style>
+
+</head>
+<body>
+    <div>
+        <h2 class="title">Accessories</h2>
+      
+    </div>
+    <table>
+        <dt>
+        <tr>
+            <td>
+                <img src="~/img/35.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:A1</span><br>
+                <span>The price:</span><br>
+                
+            </td>
+            <td>
+                <img src="~/img/36.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:12</span><br>
+                <span>The price:</span><br>
+                
+            </td>
+            <td>
+                <img src="~/img/37.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:13</span><br>
+                <span>The price:</span><br>
+               
+            </td>
+            <td>
+                <img src="~/img/38.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:14</span><br>
+                <span>The price:</span><br>
+               
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="~/img/39.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:15</span><br>
+                <span>The price:</span><br>
+            
+            </td>
+            <td>
+                <img src="~/img/4.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:16</span><br>
+                <span>The price:</span><br>
+                
+            </td>
+            <td>
+                <img src="~/img/40.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:17</span><br>
+                <span>The price:</span><br>
+           
+            </td>
+            <td>
+                <img src="~/img/41.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:18</span><br>
+                <span>The price:</span><br>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="~/img/42.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:19</span><br>
+                <span>The price:</span><br>
+                
+            </td>
+            <td>
+                <img src="~/img/43.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:110</span><br>
+                <span>The price:</span><br>
+
+            </td>
+            <td>
+                <img src="~/img/44.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:111</span><br>
+                <span>The price:</span><br>
+                
+            </td>
+            <td>
+                <img src="~/img/45.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:112</span><br>
+                <span>The price:</span><br>
+             
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="~/img/46.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:113</span><br>
+                <span>The price:</span><br>
+               
+            </td>
+            <td>
+                <img src="~/img/47.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:114</span><br>
+                <span>The price:</span><br>
+               
+            </td>
+            <td>
+                <img src="~/img/48.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:115</span><br>
+                <span>The price:</span><br>
+               
+            </td>
+            <td>
+                <img src="~/img/49.jpg" alt="" width="100%" height="100%"><br>
+                <span>code:116</span><br>
+                <span>The price:</span><br>
+              
+            </td>
+        </tr>
+        </dt>
+    </table>
+    <form asp-action="index" asp-controller="home" dir="rtl">
+        <input type="submit" value="Back" class="btn-dark" style="width:100px" />
+    </form>
+</body>
+</html>

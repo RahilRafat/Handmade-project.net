@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+   @*<script>   function search() {
+  var searchTerm = document.getElementById("search-input").value;
+  var allText = document.body.innerText;
+  var searchIndex = allText.indexOf(searchTerm);
+
+  if (searchIndex >= 0) {
+    var searchResult = allText.substring(searchIndex - 50, searchIndex + 50);
+    document.getElementById("search-results").innerHTML = "Search result: " + searchResult;
+    } else {
+    document.getElementById("search-results").innerHTML = "No results found.";
+    }
+  }
+    </script>*@
+    <style>
+        nav {
+            padding: 8px;
+            display: flex;
+            justify-content: space-around;
+            margin: auto;
+            align-items: center;
+            background-color: beige;
+        }
+
+        a {
+            position: relative;
+            text-decoration: none;
+            font-family: 'poppins', sans-serif;
+            color: black;
+            font-size: 18px;
+            letter-spacing: 0.5px;
+            text-transform: capitalize;
+            padding: 0 10px;
+            font-family: Georgia, serif;
+            font-weight: bold;
+        }
+
+            a:hover {
+                text-decoration: underline;
+                font-size: 120%;
+                color: rebeccapurple;
+            }
+           
+
+        .srch {
+            position: relative;
+            top: 2px;
+        }
+
+        .srch1 {
+            border: 2px solid #ccc;
+            padding: 3px 5px 3px 13px;
+            width: 100px;
+            border: 1.5px solid;
+            border-radius: 5px;
+        }
+
+        input[type=search]:focus {
+            width: 70%;
+        }
+
+        .bs {
+            border: 1.5px solid;
+            border-radius: 5px;
+        }
+      
+       .log {
+            text-decoration: none;
+            font-family: 'poppins', sans-serif;
+            color: black;
+            font-size: 18px;
+            border: 1px dotted;
+            border-radius: 5px;
+        }
+
+            .log:hover {
+                text-decoration: underline;
+                font-size: 120%;
+                color: black;
+            }
+   </style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - project_SWD</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/project_SWD.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">home</a>
+            @*<a class="nav-link text-dark" asp-area="" asp-controller="categories" asp-action="create">Categories</a>*@
+            <a class="nav-link text-dark" asp-area="" asp-controller="workshops" asp-action="Index">workshops</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="cont" asp-action="contact">contact</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="about" asp-action="About_Us">about us</a>
+           
+            @*<input type="text" id="search-input">
+            <button onclick="search()">Search</button>
+            <div id="search-results"></div>
+            <form class="srch">
+                <input class="srch1" type="search" placeholder="Search...">
+                <button class="bs" type="submit">Search</button>
+            </form>*@
+            <a class ="cart" asp-area="" asp-controller="product" asp-action="Show">
+                <img class="img1" src="~/img/B.jpg" alt="" width="40px" height="40px">
+            </a>
+                @*<a class="cart" asp-area="" asp-controller="product" asp-action="Show">Cart</a>*@
+            <a class="log" asp-area="" asp-controller="Account" asp-action="Logout">Log out</a>
+           
+        </nav>
+            @*<form class="form_search">
+                <table>
+                    <tr> <td><input class="form-control" type="text" placeholder="Search" aria-label="Search"></td>
+                        <td><button class="btn-success" type="submit" style="background-color:white; border:0"><img src="~/img/21.jpg" height="30" width="30"></img></button></td>
+                    </tr>
+                </table>
+            </form>*@
+          @*  <table>
+                <tr>
+                    <td><a href=""><button class="btn-success" type="submit" style="background-color:white; border:0"><img src="~/img/22.jpg" height="30" width="30"></img></button></a></td>
+                    <td><img src="~/img/23.jpg" height="30" width="30"></img></td>
+                </tr>
+            </table>
+        </nav>*@
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted" height="30">
+        <div class="container">
+            &copy; 2023 - project_SWD
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

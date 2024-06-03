@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<product>
+<h1>Product</h1>
+<html>
+<body style="background-image:url('../img/200.jpg');Background-attachment: fixed; background-position: center;background-repeat: no-repeat;
+ background-size: cover;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 mb-3">
+            @foreach(var item in Model)
+            {
+            <div>
+                    @item.product_ID
+                </div>
+                <img class="img-card" src="@item.img" />
+                <ul class="list-group">
+                    <li class="list-group-item">@item.product_code</li>
+                    <li class="list-group-item">@item.product_price</li>
+                    <li class="list-group-item"><a class="btn btn-danger" asp-action="Cart"
+                       asp-controller="Product" asp-route-id="@item.product_ID">Add to cart</a>
+                    </li>
+             
+                </ul>
+            }
+            </div>
+           
+        </div>
+
+    </div>
+    </body>
+    </html>

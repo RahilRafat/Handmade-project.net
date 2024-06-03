@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <style>
+        nav {
+            padding: 8px;
+            display: flex;
+            justify-content: space-around;
+            margin: auto;
+            align-items: center;
+            background-color: beige;
+        }
+
+        a {
+            position: relative;
+            text-decoration: none;
+            font-family: 'poppins', sans-serif;
+            color: black;
+            font-size: 18px;
+            letter-spacing: 0.5px;
+            text-transform: capitalize;
+            padding: 0 5px;
+            font-family: Georgia, serif;
+            font-weight: bold;
+        }
+
+            a:hover {
+                text-decoration: underline;
+                font-size: 120%;
+                color: rebeccapurple;
+            }
+
+
+        .srch {
+            position: relative;
+            top: 2px;
+        }
+
+        .srch1 {
+            border: 2px solid #ccc;
+            padding: 3px 5px 3px 13px;
+            width: 100px;
+            border: 1.5px solid;
+            border-radius: 5px;
+        }
+
+        input[type=search]:focus {
+            width: 70%;
+        }
+
+        .bs {
+            border: 1.5px solid;
+            border-radius: 5px;
+        }
+
+        .log {
+            text-decoration: none;
+            font-family: 'poppins', sans-serif;
+            color: black;
+            font-size: 18px;
+            border: 1px dotted;
+            border-radius: 5px;
+        }
+
+            .log:hover {
+                text-decoration: underline;
+                font-size: 120%;
+                color: black;
+            }
+    </style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - project_SWD</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/project_SWD.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="nav-link text-dark" asp-area="" asp-controller="SellerHome" asp-action="sellerhome">Home</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="categories" asp-action="Index">Categories</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="prod" asp-action="Index">Product</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="SellerHome" asp-action="Workshop">Workshops</a>
+            <a class="nav-link text-dark" asp-area="" asp-controller="SellerHome" asp-action="About">About us</a>
+            <a class="log" asp-area="" asp-controller="login_Admin" asp-action="Logout">Log out</a>
+            <a class="log" asp-area="" asp-controller="Account" asp-action="Login">Login customer</a>
+           @* <a class="nav-link text-dark" asp-area="" asp-controller="cont" asp-action="contact">Contact</a>
+            
+            <form class="srch">
+                <input class="srch1" type="search" placeholder="Search...">
+                <button class="bs" type="submit">Search</button>
+            </form>
+            <a href="#"><img class="img1" src="~/img/a.jpg" alt="" width="40px" height="40px"></a>
+            
+            <a href="#"><img class="img2" src="~/img/b.jpg" alt="" width="40px" height="40px"></a>*@
+        </nav>
+        @*<form class="form_search">
+        <table>
+        <tr> <td><input class="form-control" type="text" placeholder="Search" aria-label="Search"></td>
+        <td><button class="btn-success" type="submit" style="background-color:white; border:0"><img src="~/img/21.jpg" height="30" width="30"></img></button></td>
+        </tr>
+        </table>
+        </form>*@
+        @*  <table>
+        <tr>
+        <td><a href=""><button class="btn-success" type="submit" style="background-color:white; border:0"><img src="~/img/22.jpg" height="30" width="30"></img></button></a></td>
+        <td><img src="~/img/23.jpg" height="30" width="30"></img></td>
+        </tr>
+        </table>
+        </nav>*@
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted" height="30">
+        <div class="container">
+            &copy; 2023 - project_SWD
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+

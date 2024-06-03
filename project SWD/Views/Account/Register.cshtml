@@ -1,0 +1,123 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sign Up</title>
+    <style>
+        body {
+            background-image: url('../img/log in.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            Background-attachment: fixed;
+            background-position: center;
+        }
+
+        .top {
+            width: 220px;
+            background-color: rgb(161, 127, 69);
+            opacity: 0.85;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 3px;
+            margin: 5px;
+        }
+
+        form {
+            width: 320px;
+            background-color: rgb(161, 127, 69);
+            opacity: 0.85;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 8px;
+            margin: 10px;
+        }
+
+        label {
+            display: block;
+            font-size: 118%;
+            margin-bottom: 8px;
+        }
+
+        input[type="text"],
+        input[type="password"],
+        input[type="email"] {
+            width: 95%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            box-sizing: border-box;
+            margin-bottom: 18px;
+        }
+
+        button[type="submit"] {
+            background-color: #bfac80;
+            color: #fff;
+            border: none;
+            padding: 8px;
+            font-size: 15px;
+            border-radius: 4px;
+        }
+
+            button[type="submit"]:hover {
+                background-color: #45a049;
+            }
+
+        h2 {
+            color: black;
+            font-weight: bold;
+            font-size: 25px;
+        }
+
+        .icon {
+            border: 0.5px solid white;
+            border-radius: 5px;
+            width: 25px;
+            height: 28px;
+            margin: 0 8px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <div class="top">
+            <h2>Sign Up</h2>
+        </div>
+        <form asp-controller="Account" asp-action="Register">
+            <label for="customer_name"><font color="#2e1608"><b>User Name: </b></font></label>
+            <input type="text" id="customer_name" name="customer_name" placeholder="Enter your username" required>
+
+            <label for="E-mail"><font color="#2e1608"><b>E-mail: </b></font></label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+            <label for="phone"><font color="#2e1608"><b>Phone Number: </b></font></label>
+            <input type="text" id="phone" name="phone" placeholder="Enter your phone" required>
+
+            <label for="password"><font color="#2e1608"><b>Password: </b></font></label>
+            <input type="password" id="password" name="password" placeholder="Enter your password" required>
+
+            <label for="ConfirmPassword"><font color="#2e1608"><b>Re-password: </b></font></label>
+            <input type="password" id="ConfirmPassword" name="ConfirmPassword" placeholder="Enter your re-password" required>
+
+            <center>
+                <button type="submit"><font color="black"><b>Sign Up</b></font></button>
+
+                <p><font color="white"><b>Already a member? <a asp-action="Login" asp-controller="Account">Log in</a></b><font></p>
+                <P><font color="white">or sign up using</font></P>
+
+                <a href="https://www.facebook.com/"><img class="icon" src="~/img/c.jpg"></a>
+                <a href="https://twitter.com/"><img class="icon" src="~/img/d.jpg"></a>
+                <a href="https://accounts.google.com"> <img class="icon" src="~/img/e.jpg"></a>
+                </form>
+    </center>
+
+</body>
+</html>

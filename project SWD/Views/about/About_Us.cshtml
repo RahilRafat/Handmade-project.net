@@ -1,0 +1,217 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        * {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            outline: none;
+            border: none;
+            text-decoration: none;
+            text-transform: capitalize;
+            transition: .2s linear;
+        }
+
+        html {
+            font-size: 62.5%;
+            overflow-x: hidden;
+            scroll-padding-top: 9rem;
+            scroll-behavior: smooth;
+        }
+
+            html::-webkit-scrollbar {
+                width: .8rem;
+            }
+
+            html::-webkit-scrollbar-track {
+                background: transparent;
+            }
+
+            html::-webkit-scrollbar-thumb {
+                background: #fff;
+                border-radius: 5rem;
+            }
+
+        body {
+            background-color: #f2dbbd;
+        }
+
+        .row {
+            width: 90%;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+            gap: 1.5rem;
+        }
+
+        .column {
+            float: left;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .card {
+            background-color: #d6b89f;
+            padding: 10%;
+            border: solid;
+            border-radius: 20px;
+            margin-right: 20px;
+            width: 17em;
+            margin-bottom: 30px;
+            overflow: hidden;
+            transition: transform 0.5s;
+            height: 13em;
+        }
+
+            .card:hover {
+                transform: scale(1.1);
+                background-color: beige;
+            }
+
+        .container {
+            font-size: 20px;
+            font-weight: 250;
+            font-style: oblique;
+        }
+
+        .lin {
+            color:black;
+            font-size: 20px;
+            font-weight: 100;
+            text-decoration:none;
+            letter-spacing: 1px;
+            padding: 5px 8px 5px;  
+            outline: 0;   
+            cursor: pointer;
+            position: relative;
+            transition: 0.3s;
+            display: block;
+            margin: auto;
+        }
+
+            .lin:hover {
+               text-decoration:underline;
+                color: #bf9660;
+            }
+
+        .button {
+            font-size: 20px;
+            font-weight: 100;
+            letter-spacing: 1px;
+            padding: 5px 8px 5px;
+            border-radius: 5px;
+            outline: 0;
+            border: 1px solid black;
+            cursor: pointer;
+            position: relative;
+            background-color: rgba(0, 0, 0, 0);
+            transition: 0.3s;
+            display: block;
+            margin: auto;
+        }
+
+            .button:hover {
+                background-color: #bf9660;
+                color: black;
+            }
+    </style>
+</head>
+<body>
+    <div class="about-section">
+        <h1>About Us Page</h1>
+        <p>If you have any comment or problem connect us.</p>
+    </div>
+    <h2 style="text-align:center"><b>Team</b></h2>
+    <br>
+    <div class="row">
+
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <h2><font color="#b56828"><b>Aya</b></font></h2>
+                    <p class="title">Designer</p>
+                    <p>Aya@gmail.com</p>
+                    <p><a asp-controller="cont" asp-action="contact" class="lin">Contact</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <h2><font color="#b56828"><b>Doaa</b></font></h2>
+                    <p class="title">Art Director</p>
+                    <p>Doaa@gmail.com</p>
+                    <p><a asp-controller="cont" asp-action="contact" class="lin">Contact</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <h2><font color="#b56828"><b>Ziad</b></font></h2>
+                    <p class="title">Designer</p>
+                    <p>Ziad@gmail.com</p>
+                    <p><a asp-controller="cont" asp-action="contact" class="lin">Contact</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <h2><font color="#b56828"><b>Ziad</b></font></h2>
+                    <p class="title">Designer</p>
+                    <p>Ziad@gmail.com</p>
+                    <p><a asp-controller="cont" asp-action="contact" class="lin">Contact</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <h2><font color="#b56828"><b>Dina</b></font></h2>
+                    <p class="title">Designer</p>
+                    <p>Dina@gmail.com</p>
+                    <p><a asp-controller="cont" asp-action="contact" class="lin">Contact</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <h2><font color="#b56828"><b>Rola</b></font></h2>
+                    <p class="title">Designer</p>
+                    <p>Rola@gmail.com</p>
+                    <p><a asp-controller="cont" asp-action="contact" class="lin">Contact</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+                <div class="container">
+                    <h2><font color="#b56828"><b>Rhail</b></font></h2>
+                    <p class="title">Designer</p>
+                    <p>Rhail@gmail.com</p>
+                    <p><a asp-controller="cont" asp-action="contact" class="lin">Contact</a></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <form asp-action="Index" asp-controller="Home" dir="rtl">
+        <button class="button">Back</button>
+    </form>
+</body>
+</html>

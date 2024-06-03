@@ -1,0 +1,49 @@
+﻿@model IEnumerable<project_SWD.Models.category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin_layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-dark"><i class="bi bi-bag-plus-fill"></i>&nbsp;&nbsp; Add Category</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.category_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category_type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category_Pic)
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_type)
+            </td>
+            <td>
+                    <img src="~/img/@item.category_Pic" alt="cate_picture_here" style="border-radius:50%; width:70px;height:70px">
+               @* @Html.DisplayFor(modelItem => item.category_Pic)*@
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.category_ID"><i class="bi bi-pencil-square"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.category_ID"><i class="bi bi-eye"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.category_ID"><i class="bi bi-trash-fill"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

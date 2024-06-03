@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\project SWD\\project SWD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\project SWD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\project SWD.bundle.scp.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\css\\search.css",
+      "PackagePath": "staticwebassets\\css\\search.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\10.png",
+      "PackagePath": "staticwebassets\\img\\10.png"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\101.jpg",
+      "PackagePath": "staticwebassets\\img\\101.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\102.jpg",
+      "PackagePath": "staticwebassets\\img\\102.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\103.jpg",
+      "PackagePath": "staticwebassets\\img\\103.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\104.jpg",
+      "PackagePath": "staticwebassets\\img\\104.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\105.jpg",
+      "PackagePath": "staticwebassets\\img\\105.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\106.jpg",
+      "PackagePath": "staticwebassets\\img\\106.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\11.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\12.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\13.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\14.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\15.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\16.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\17.png",
+      "PackagePath": "staticwebassets\\img\\17.png"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\18.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\19.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\20.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\200.jpg",
+      "PackagePath": "staticwebassets\\img\\200.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\21.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\22.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\23.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\24.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\25.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\26.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\27.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\28.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\29.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\30.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\31.jpg",
+      "PackagePath": "staticwebassets\\img\\31.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\32.jpg",
+      "PackagePath": "staticwebassets\\img\\32.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\35.jpg",
+      "PackagePath": "staticwebassets\\img\\35.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\36.jpg",
+      "PackagePath": "staticwebassets\\img\\36.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\37.jpg",
+      "PackagePath": "staticwebassets\\img\\37.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\38.jpg",
+      "PackagePath": "staticwebassets\\img\\38.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\39.jpg",
+      "PackagePath": "staticwebassets\\img\\39.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\40.jpg",
+      "PackagePath": "staticwebassets\\img\\40.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\41.jpg",
+      "PackagePath": "staticwebassets\\img\\41.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\42.jpg",
+      "PackagePath": "staticwebassets\\img\\42.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\43.jpg",
+      "PackagePath": "staticwebassets\\img\\43.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\44.jpg",
+      "PackagePath": "staticwebassets\\img\\44.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\45.jpg",
+      "PackagePath": "staticwebassets\\img\\45.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\46.jpg",
+      "PackagePath": "staticwebassets\\img\\46.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\47.jpg",
+      "PackagePath": "staticwebassets\\img\\47.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\48.jpg",
+      "PackagePath": "staticwebassets\\img\\48.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\49.jpg",
+      "PackagePath": "staticwebassets\\img\\49.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\50.jpg",
+      "PackagePath": "staticwebassets\\img\\50.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\51.jpg",
+      "PackagePath": "staticwebassets\\img\\51.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\52.jpg",
+      "PackagePath": "staticwebassets\\img\\52.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\53.jpg",
+      "PackagePath": "staticwebassets\\img\\53.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\54.jpg",
+      "PackagePath": "staticwebassets\\img\\54.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\55.jpg",
+      "PackagePath": "staticwebassets\\img\\55.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\56.jpg",
+      "PackagePath": "staticwebassets\\img\\56.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\57.jpg",
+      "PackagePath": "staticwebassets\\img\\57.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\60.jpg",
+      "PackagePath": "staticwebassets\\img\\60.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\61.jpg",
+      "PackagePath": "staticwebassets\\img\\61.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\62.jpg",
+      "PackagePath": "staticwebassets\\img\\62.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\63.jpg",
+      "PackagePath": "staticwebassets\\img\\63.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\64.jpg",
+      "PackagePath": "staticwebassets\\img\\64.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\65.jpg",
+      "PackagePath": "staticwebassets\\img\\65.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\66.jpg",
+      "PackagePath": "staticwebassets\\img\\66.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\67.jpg",
+      "PackagePath": "staticwebassets\\img\\67.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\68.jpg",
+      "PackagePath": "staticwebassets\\img\\68.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\69.jpg",
+      "PackagePath": "staticwebassets\\img\\69.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\70.jpg",
+      "PackagePath": "staticwebassets\\img\\70.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\71.jpg",
+      "PackagePath": "staticwebassets\\img\\71.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\72.jpg",
+      "PackagePath": "staticwebassets\\img\\72.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\73.jpg",
+      "PackagePath": "staticwebassets\\img\\73.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\74.jpg",
+      "PackagePath": "staticwebassets\\img\\74.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\75.jpg",
+      "PackagePath": "staticwebassets\\img\\75.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\76.jpg",
+      "PackagePath": "staticwebassets\\img\\76.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\77.jpg",
+      "PackagePath": "staticwebassets\\img\\77.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\78.jpg",
+      "PackagePath": "staticwebassets\\img\\78.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\79.jpg",
+      "PackagePath": "staticwebassets\\img\\79.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\8.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\80.jpg",
+      "PackagePath": "staticwebassets\\img\\80.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\81.jpg",
+      "PackagePath": "staticwebassets\\img\\81.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\82.jpg",
+      "PackagePath": "staticwebassets\\img\\82.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\83.jpg",
+      "PackagePath": "staticwebassets\\img\\83.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\84.jpg",
+      "PackagePath": "staticwebassets\\img\\84.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\85.jpg",
+      "PackagePath": "staticwebassets\\img\\85.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\86.jpg",
+      "PackagePath": "staticwebassets\\img\\86.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\87.jpg",
+      "PackagePath": "staticwebassets\\img\\87.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\88.jpg",
+      "PackagePath": "staticwebassets\\img\\88.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\89.jpg",
+      "PackagePath": "staticwebassets\\img\\89.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\9.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\90.jpg",
+      "PackagePath": "staticwebassets\\img\\90.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\B.jpg",
+      "PackagePath": "staticwebassets\\img\\B.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\c.jpg",
+      "PackagePath": "staticwebassets\\img\\c.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\category\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\26.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\d.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\default.jpg",
+      "PackagePath": "staticwebassets\\img\\default.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\department\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\department\\17.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\department\\37.jpg",
+      "PackagePath": "staticwebassets\\img\\department\\37.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\department\\38.jpg",
+      "PackagePath": "staticwebassets\\img\\department\\38.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\department\\39.jpg",
+      "PackagePath": "staticwebassets\\img\\department\\39.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\department\\41.jpg",
+      "PackagePath": "staticwebassets\\img\\department\\41.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\e.jpg",
+      "PackagePath": "staticwebassets\\img\\e.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\f.jpg",
+      "PackagePath": "staticwebassets\\img\\f.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\10.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\11.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\12.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\24.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\25.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\3.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\4.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\5.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\6.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\7.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\8.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\home\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\home\\9.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\img_file",
+      "PackagePath": "staticwebassets\\img"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\log in.jpg",
+      "PackagePath": "staticwebassets\\img\\log in.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\makrama\\Okr-g-y-makrama-Handmade-makija-lustro-ozdobne-gobelin-cienny-na-ozdoba-na-lustro-sypialnia-salon.jpg_Q90.jpg_.webp",
+      "PackagePath": "staticwebassets\\img\\makrama\\Okr-g-y-makrama-Handmade-makija-lustro-ozdobne-gobelin-cienny-na-ozdoba-na-lustro-sypialnia-salon.jpg_Q90.jpg_.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\makrama\\image.webp",
+      "PackagePath": "staticwebassets\\img\\makrama\\image.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\makrama\\wp-image-1438283879jpg.webp",
+      "PackagePath": "staticwebassets\\img\\makrama\\wp-image-1438283879jpg.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\tapestry\\5-Models-Geometric-Handmade-Tapestry-Wall-Hanging-Macrame-Home-Decor-Retro-Nordic-Door-hang-Craft-Handcrafted.jpg_Q90.jpg_.webp",
+      "PackagePath": "staticwebassets\\img\\tapestry\\5-Models-Geometric-Handmade-Tapestry-Wall-Hanging-Macrame-Home-Decor-Retro-Nordic-Door-hang-Craft-Handcrafted.jpg_Q90.jpg_.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\tapestry\\bohemian-macrame-woven-wall-hanging-tapestry-geometric-5.webp",
+      "PackagePath": "staticwebassets\\img\\tapestry\\bohemian-macrame-woven-wall-hanging-tapestry-geometric-5.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\tapestry\\default_name.webp",
+      "PackagePath": "staticwebassets\\img\\tapestry\\default_name.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\tapestry\\il_1080xN.4473089972_pgfx.webp",
+      "PackagePath": "staticwebassets\\img\\tapestry\\il_1080xN.4473089972_pgfx.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\tapestry\\il_570xN.2931168814_fv2c.webp",
+      "PackagePath": "staticwebassets\\img\\tapestry\\il_570xN.2931168814_fv2c.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\tapestry\\il_fullxfull.2019180382_24ej.webp",
+      "PackagePath": "staticwebassets\\img\\tapestry\\il_fullxfull.2019180382_24ej.webp"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\tion1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\tion1-removebg-preview.png"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\workshops\\106.jpg",
+      "PackagePath": "staticwebassets\\img\\workshops\\106.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\workshops\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\workshops\\20.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\workshops\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\workshops\\21.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\workshops\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\workshops\\27.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\workshops\\i.jpg",
+      "PackagePath": "staticwebassets\\img\\workshops\\i.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\workshops\\ii.jpg",
+      "PackagePath": "staticwebassets\\img\\workshops\\ii.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\img\\workshops\\iii.jpg",
+      "PackagePath": "staticwebassets\\img\\workshops\\iii.jpg"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "M:\\project SWD\\project SWD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.project SWD.props",
+      "PackagePath": "build\\project SWD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.project SWD.props",
+      "PackagePath": "buildMultiTargeting\\project SWD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.project SWD.props",
+      "PackagePath": "buildTransitive\\project SWD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.project SWD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

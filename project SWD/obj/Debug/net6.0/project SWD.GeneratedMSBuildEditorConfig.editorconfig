@@ -1,0 +1,205 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = project_SWD
+build_property.RootNamespace = project_SWD
+build_property.ProjectDir = M:\project SWD\project SWD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = M:\project SWD\project SWD
+build_property._RazorSourceGeneratorDebug = 
+
+[M:/project SWD/project SWD/SessionExtention.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2Vzc2lvbkV4dGVudGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/about/About_Us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWJvdXRcQWJvdXRfVXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/cont/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udFxjb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/HomeStatic/Accessories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVN0YXRpY1xBY2Nlc3Nvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/HomeStatic/Crochet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVN0YXRpY1xDcm9jaGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/HomeStatic/Earthenware.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVN0YXRpY1xFYXJ0aGVud2FyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/HomeStatic/Macrame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVN0YXRpY1xNYWNyYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/HomeStatic/Tapestry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVN0YXRpY1xUYXBlc3RyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/Accessories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3Nvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/Crochet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcm9jaGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/Earthenware.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFYXJ0aGVud2FyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/Macrame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWNyYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Home/Tapestry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXBlc3RyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/login_Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9naW5fQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Product/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Product/ShowCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/prod/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/prod/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/prod/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/prod/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/prod/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/Accessories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxBY2Nlc3Nvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/Crochet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxDcm9jaGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/Earthenware.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxFYXJ0aGVud2FyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/Macrame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxNYWNyYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxwcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/sellerhome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxzZWxsZXJob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/Tapestry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxUYXBlc3RyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/SellerHome/Workshop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVySG9tZVxXb3Jrc2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Shared/Admin_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluX2xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/workshops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd29ya3Nob3BzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[M:/project SWD/project SWD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0pbsvbufrv
